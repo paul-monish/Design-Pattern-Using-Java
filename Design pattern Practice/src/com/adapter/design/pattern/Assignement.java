@@ -12,6 +12,6 @@ public class Assignement {
 	}
 	
 	public void writeAssignment(Pen p) {
-		p.write("i am little bit tired to implements pen interface..");
+		p.write("now i am very sad..");
 	}
 }
