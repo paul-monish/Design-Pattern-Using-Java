@@ -11,7 +11,7 @@ public class Assignement {
 		this.p = p;
 	}
 	
-	public void writeAssignment(Pen p) {
-		p.write("now i am very sad..");
+	public void writeAssignment(String s) {
+		p.write(s);
 	}
 }
